@@ -14,3 +14,5 @@ A list of resources I've found useful to learning data engineering.
 * [Awesome Data Engineering](https://awesomedataengineering.com)
 * [How to become a data engineer](https://khashtamov.com/en/how-to-become-a-data-engineer/)
 
+## A unified data architecture (courtesy of KDnuggets)
+![Unified Data Architecture](/images/unified-data-architecture.jpg)
